@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Entity Extraction</string>
+    <string name="input">Enter your message</string>
+    <string name="entity_extraction_trigger_btn">Extract Entity</string>
+</resources>
